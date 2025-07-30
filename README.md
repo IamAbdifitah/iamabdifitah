@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on **open source ICT solutions in Somalia**  
 - 🤝 I’m looking for help with **advanced UI/UX in Java Swing**  
 - 💬 Ask me about **Java, SQL, C#, HTML/CSS, ASP.NET, GitHub**  
-- 📫 How to reach me: **your.email@example.com**  
+- 📫 How to reach me: **abdifitahmoha97@gmail.com**  
 - 📄 Know about my experiences: [My Portfolio](https://your-portfolio.com)  
 - ⚡ Fun fact: I love building useful tools for my university & community 💡
 
