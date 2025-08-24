@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Abdifitah Mohamoud</h1>
-<h3 align="center">ICT Student | Full-Stack Developer | Open Source Contributor</h3>
+<h1 align="center">Hi , I'm Abdifitah Mohamoud</h1>
+<h3 align="center"> | Full-Stack Developer | Open Source Contributor</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=iamabdifitah&label=Profile%20views&color=0e75b6&style=flat" alt="iamabdifitah" />
@@ -35,5 +35,5 @@
 
 ### 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/iamabdifitah)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://[facebook.com/AbdifitahMohamuud](https://www.facebook.com/fitaax.maxamuud.96/))
+
 
